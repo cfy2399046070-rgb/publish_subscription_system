@@ -1,0 +1,96 @@
+1778448202286|DCVM Cyclic Barrier up and running!
+1778448221349|DCVM Cyclic Barrier accepts: jvm5 localhost 41078
+1778448221349|DCVM Cyclic Barrier accepts: jvm1 localhost 41094
+1778448221374|DCVM Cyclic Barrier has received 1 out of 5 expected.
+1778448221374|DCVM Cyclic Barrier has received 2 out of 5 expected.
+1778448221619|DCVM Cyclic Barrier accepts: jvm2 localhost 41096
+1778448221620|DCVM Cyclic Barrier has received 3 out of 5 expected.
+1778448221620|DCVM Cyclic Barrier accepts: jvm4 localhost 41104
+1778448221622|DCVM Cyclic Barrier has received 4 out of 5 expected.
+1778448221626|All connected!
+1778448221667|DCVM Cyclic Barrier accepts: jvm3 localhost 41106
+1778448221668|DCVM Cyclic Barrier has received 5 out of 5 expected.
+1778448221668|DCVM Cyclic Barrier releases 5 sites.
+1778448221717|DCVM Cyclic Barrier accepts: jvm1 localhost 41094
+1778448221718|DCVM Cyclic Barrier has received 1 out of 5 expected.
+1778448221741|DCVM Cyclic Barrier accepts: jvm5 localhost 41078
+1778448221741|DCVM Cyclic Barrier accepts: jvm4 localhost 41104
+1778448221741|DCVM Cyclic Barrier accepts: jvm2 localhost 41096
+1778448221741|DCVM Cyclic Barrier has received 2 out of 5 expected.
+1778448221742|DCVM Cyclic Barrier accepts: jvm3 localhost 41106
+1778448221742|DCVM Cyclic Barrier has received 3 out of 5 expected.
+1778448221743|DCVM Cyclic Barrier has received 4 out of 5 expected.
+1778448221743|DCVM Cyclic Barrier has received 5 out of 5 expected.
+1778448221743|DCVM Cyclic Barrier releases 5 sites.
+1778448225808|DCVM Cyclic Barrier accepts: jvm1 localhost 41094
+1778448225808|DCVM Cyclic Barrier has received 1 out of 5 expected.
+1778448225845|DCVM Cyclic Barrier accepts: jvm4 localhost 41104
+1778448225846|DCVM Cyclic Barrier has received 2 out of 5 expected.
+1778448225868|DCVM Cyclic Barrier accepts: jvm2 localhost 41096
+1778448225869|DCVM Cyclic Barrier has received 3 out of 5 expected.
+1778448225977|DCVM Cyclic Barrier accepts: jvm5 localhost 41078
+1778448225978|DCVM Cyclic Barrier has received 4 out of 5 expected.
+1778448226004|DCVM Cyclic Barrier accepts: jvm3 localhost 41106
+1778448226005|DCVM Cyclic Barrier has received 5 out of 5 expected.
+1778448226005|DCVM Cyclic Barrier releases 5 sites.
+1778448226006|DCVM Cyclic Barrier accepts: jvm3 localhost 41106
+1778448226006|DCVM Cyclic Barrier accepts: jvm4 localhost 41104
+1778448226006|DCVM Cyclic Barrier accepts: jvm1 localhost 41094
+1778448226006|DCVM Cyclic Barrier accepts: jvm2 localhost 41096
+1778448226006|DCVM Cyclic Barrier accepts: jvm5 localhost 41078
+1778448226006|DCVM Cyclic Barrier has received 1 out of 5 expected.
+1778448226007|DCVM Cyclic Barrier has received 2 out of 5 expected.
+1778448226008|DCVM Cyclic Barrier has received 3 out of 5 expected.
+1778448226009|DCVM Cyclic Barrier has received 4 out of 5 expected.
+1778448226010|DCVM Cyclic Barrier has received 5 out of 5 expected.
+1778448226010|DCVM Cyclic Barrier releases 5 sites.
+1778448226011|DCVM Cyclic Barrier accepts: jvm5 localhost 41078
+1778448226011|DCVM Cyclic Barrier accepts: jvm3 localhost 41106
+1778448226011|DCVM Cyclic Barrier accepts: jvm4 localhost 41104
+1778448226011|DCVM Cyclic Barrier accepts: jvm1 localhost 41094
+1778448226011|DCVM Cyclic Barrier accepts: jvm2 localhost 41096
+1778448226011|DCVM Cyclic Barrier has received 1 out of 5 expected.
+1778448226014|DCVM Cyclic Barrier has received 2 out of 5 expected.
+1778448226015|DCVM Cyclic Barrier has received 3 out of 5 expected.
+1778448226015|DCVM Cyclic Barrier has received 4 out of 5 expected.
+1778448226016|DCVM Cyclic Barrier has received 5 out of 5 expected.
+1778448226016|DCVM Cyclic Barrier releases 5 sites.
+1778448246038|DCVM Cyclic Barrier accepts: jvm3 localhost 41106
+1778448246038|DCVM Cyclic Barrier has received 1 out of 5 expected.
+1778448246040|DCVM Cyclic Barrier accepts: jvm2 localhost 41096
+1778448246040|DCVM Cyclic Barrier accepts: jvm1 localhost 41094
+1778448246041|DCVM Cyclic Barrier has received 2 out of 5 expected.
+1778448246041|DCVM Cyclic Barrier accepts: jvm5 localhost 41078
+1778448246041|DCVM Cyclic Barrier has received 3 out of 5 expected.
+1778448246041|DCVM Cyclic Barrier accepts: jvm4 localhost 41104
+1778448246042|DCVM Cyclic Barrier has received 4 out of 5 expected.
+1778448246042|DCVM Cyclic Barrier has received 5 out of 5 expected.
+1778448246042|DCVM Cyclic Barrier releases 5 sites.
+1778448246062|DCVM Cyclic Barrier accepts: jvm1 localhost 41094
+1778448246063|DCVM Cyclic Barrier has received 1 out of 5 expected.
+1778448246069|DCVM Cyclic Barrier accepts: jvm3 localhost 41106
+1778448246070|DCVM Cyclic Barrier has received 2 out of 5 expected.
+1778448246070|DCVM Cyclic Barrier accepts: jvm4 localhost 41104
+1778448246071|DCVM Cyclic Barrier has received 3 out of 5 expected.
+1778448246074|DCVM Cyclic Barrier accepts: jvm2 localhost 41096
+1778448246075|DCVM Cyclic Barrier has received 4 out of 5 expected.
+1778448246082|DCVM Cyclic Barrier accepts: jvm5 localhost 41078
+1778448246083|DCVM Cyclic Barrier has received 5 out of 5 expected.
+1778448246083|DCVM Cyclic Barrier releases 5 sites.
+1778448246150|DCVM Cyclic Barrier accepts: jvm3 localhost 41106
+1778448246151|DCVM Cyclic Barrier has received 1 out of 5 expected.
+1778448246156|DCVM Cyclic Barrier accepts: jvm1 localhost 41094
+1778448246157|DCVM Cyclic Barrier has received 2 out of 5 expected.
+1778448246170|DCVM Cyclic Barrier accepts: jvm4 localhost 41104
+1778448246171|DCVM Cyclic Barrier has received 3 out of 5 expected.
+1778448246177|DCVM Cyclic Barrier accepts: jvm2 localhost 41096
+1778448246178|DCVM Cyclic Barrier has received 4 out of 5 expected.
+1778448246190|DCVM Cyclic Barrier accepts: jvm5 localhost 41078
+1778448246191|DCVM Cyclic Barrier has received 5 out of 5 expected.
+1778448246191|DCVM Cyclic Barrier releases 5 sites.
+1778448246218|DCVMCyclicBarrier.run() finished.
+1778448246218|DCVMCyclicBarrier.run() finished.
+1778448246218|DCVMCyclicBarrier.run() finished.
+1778448246219|DCVMCyclicBarrier.run() finished.
+1778448246219|DCVMCyclicBarrier.run() finished.
+1778448246219|DCVM Cyclic Barrier shuts down!
